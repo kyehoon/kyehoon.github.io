@@ -1,0 +1,82 @@
+html {
+  background-color:#3A4CA8;
+  color: whitesmoke;
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+.clock{
+  position: ;
+
+}
+span{
+  font-weight:700;
+  font-size:larger;
+}
+.pro{
+  width: 500px;
+  position: absolute;
+  right: 720px;
+  top: 80px;
+  margin: auto;
+}
+.practice{
+  font-size: x-large;
+  margin: 50px;
+  margin-bottom: 80px;
+  font-weight: 700;
+  color: #FCE449;
+}
+
+.quotes{
+  position: relative;
+}
+.center{
+  position:absolute;
+  float: none;
+  left: 830px;
+  top: 400px;
+  font-weight: 520;
+}
+.input{
+  
+  font-size: x-large;
+  margin-top: 100px;
+}
+.box{
+  width: 200px;
+  height: 38px;
+  border-radius: 10px;
+  border: 0;
+}
+.box2{
+  width: 200px;
+  height: 38px;
+  border-radius: 10px;
+  border: 0;
+}
+#click{
+  position: absolute;
+  bottom: 130px;
+  left: 1170px;
+}
+button{
+  font-size: large;
+  margin-top: 50px;
+  border-style: none;
+  background-color: yellow;
+  font-weight: 700;
+  color:#3A4CA8;
+  border-radius: 20px;
+  border: 0;
+  width: 400px;
+  height: 40px;
+}
+footer{
+  margin-top: 300px;
+  margin: 50px;
+  font-size:xx-small;
+  color: whitesmoke;
+  text-align: center;
+}
